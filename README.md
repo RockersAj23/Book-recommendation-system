@@ -12,7 +12,6 @@ This project demonstrates the creation of a Book Recommendation System using var
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
-- [License](#license)
 
 ## Introduction
 
